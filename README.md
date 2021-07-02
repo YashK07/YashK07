@@ -7,7 +7,7 @@
 
 ### Currently I am working on 🎯 - 
 1. Real time crowd counting project 💻
-2. Writing Deep Learning and Data Analytics blogs on Analytics Vidhya platform 📈
+2. Writing Deep Learning and Data Analytics blogs on Analytics Vidhya platform 📈 Blog Archive - https://docs.google.com/document/d/16mT9iHdc06CR-9CAMGvCngmOv07hC9CM9Sl5oYfwcKs/edit
 
 
 

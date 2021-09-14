@@ -6,7 +6,7 @@
 4. Python basics to get started with ML 😄
 
 ### Currently I am working on 🎯 - 
-1. Real time crowd counting project/research 💻
+1. Real time crowd counting in drone images: project/research 💻
 2. Writing Machine Learning, Deep Learning and Data Analytics blogs on Analytics Vidhya platform 📈 Blog Archive - https://docs.google.com/document/d/16mT9iHdc06CR-9CAMGvCngmOv07hC9CM9Sl5oYfwcKs/edit
 
 

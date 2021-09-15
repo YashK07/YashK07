@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/yash-khandelwal-a40484bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YashK" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yashkhandelwal_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YashK" height="30" width="40" /></a>
 <a href="https://yashkhandelwal07.medium.com/" target="blank"><img align="center" src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_medium-sign.svg" alt="Blogging by Yash" height="40" width="50" /></a>
-<a href="https://yashkhandelwal07.medium.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Noob in DSA" height="40" width="50" /></a>
+<a href="https://leetcode.com/heisenberg07/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Noob in DSA" height="40" width="50" /></a>
 </p>
 
 <!--

@@ -23,12 +23,18 @@
 
 <h3 align="left">Tech skills: Languages and Tools</h3>
 <p align="left"> <a href=https://www.hackerrank.com/yashbetul23" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.hackerrank.com/yashbetul23" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a><a href="https://www.hackerrank.com/yashbetul23" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/> </a> <a href="https://www.kaggle.com/yashk07" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a> <a href="https://www.kaggle.com/yashk07" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40"/> </a><a href="https://public.tableau.com/app/profile/yash.khandelwal" target="_blank"> <img src="https://brockdsl.github.io/Tableau-Online-Tutorial/tableau-logo.jpg" alt="Tableau" width="40" height="40"/> </a><a href="https://www.kaggle.com/yashk07" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="Seaborn" width="40" height="40"/> </a><a href="https://www.hackerrank.com/yashbetul23" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> </a> </p>
-<h3 align="left">Connect with me:</h3>
+ 
+<h3 align="left">Coding Profiles</h3> 
+ <p align="left">
+ <a href="https://leetcode.com/heisenberg07/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="DSA" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/yashbetul23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="DSA" height="40" width="50" /></a>
+ <a href="https://www.kaggle.com/yashk07" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Data Science" height="20" width="50" /></a>
+ </p>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-khandelwal-a40484bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YashK" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yashkhandelwal_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YashK" height="30" width="40" /></a>
 <a href="https://yashkhandelwal07.medium.com/" target="blank"><img align="center" src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_medium-sign.svg" alt="Blogging by Yash" height="40" width="50" /></a>
-<a href="https://leetcode.com/heisenberg07/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Noob in DSA" height="40" width="50" /></a>
 </p>
 
 <!--

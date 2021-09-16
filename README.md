@@ -5,7 +5,7 @@
 
 
 ### My Github contributions include ✨ - 
-1. Implementation of Ensemble stacking in Machine Learning & Deep Learning | [Stacking](https://github.com/YashK07/Stacking-Ensembling)
+1. Implementation of Ensemble stacking in Machine Learning & Deep Learning | [Stacking](https://github.com/YashK07/Stacking-Ensembling) 🧱
 2. Various Machine Learning & Deep Learning concept implementation on real life datasets | [ML - DL](https://github.com/YashK07/ML-DL) ⚡
 3. End to End Deep Learning image recognition project | [Webapp](https://github.com/YashK07/Natural-Scene-Recognition-WebApp-SDS-Project) 🌟
 4. NLP basic algorithm implemenation | [NLP](https://github.com/YashK07/Natural-Language-Processing)  💬 

@@ -5,14 +5,15 @@
 
 
 ### My Github contributions include ✨ - 
-1. Various Machine Learning & Deep Learning concept implementation on real life datasets ⚡
-2. End to End Deep Learning image recognition project 🌟
-3. NLP basic algorithm implemenation 💬 
-4. Python basics to get started with ML 😄
+1. Implementation of Ensemble stacking in Machine Learning & Deep Learning | [Stacking](https://github.com/YashK07/Stacking-Ensembling)
+2. Various Machine Learning & Deep Learning concept implementation on real life datasets | [ML - DL](https://github.com/YashK07/ML-DL) ⚡
+3. End to End Deep Learning image recognition project | [Webapp](https://github.com/YashK07/Natural-Scene-Recognition-WebApp-SDS-Project) 🌟
+4. NLP basic algorithm implemenation | [NLP](https://github.com/YashK07/Natural-Language-Processing)  💬 
+5. Basics to get started with ML | [Basic](https://github.com/YashK07/Stacking-Ensembling) 😄
 
 ### Currently I am working on 🎯 - 
 1. Real time crowd counting: project/research 💻
-2. Writing Machine Learning, Deep Learning and Data Analytics blogs on Analytics Vidhya platform 📈 Blog Archive - https://docs.google.com/document/d/16mT9iHdc06CR-9CAMGvCngmOv07hC9CM9Sl5oYfwcKs/edit
+2. Writing Machine Learning, Deep Learning and Data Analytics blogs on Analytics Vidhya platform | [Blog Archive](https://docs.google.com/document/d/16mT9iHdc06CR-9CAMGvCngmOv07hC9CM9Sl5oYfwcKs/edit?usp=sharing) 📈 
 
 
 

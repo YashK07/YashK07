@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GIF](https://wallpapercave.com/uwp/uwp779750.gif)
+![GIF](https://owaissiddiqi.co.uk/img/AIbrain.png)
 
 
 

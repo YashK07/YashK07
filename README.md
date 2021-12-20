@@ -9,7 +9,8 @@
 2. End to End Deep Learning image recognition project | [Natural Scence Recognition Webapp](https://github.com/YashK07/Natural-Scene-Recognition-WebApp-SDS-Project) 🌟
 3. Implementation of Ensemble stacking in Machine Learning & Deep Learning | [Stacking](https://github.com/YashK07/Stacking-Ensembling) 🧱
 4. Various Machine Learning & Deep Learning implementation on real world datasets | [ML - DL](https://github.com/YashK07/ML-DL) ⚡
-5. NLP basic algorithm implemenation | [NLP](https://github.com/YashK07/Natural-Language-Processing)  💬 
+5. My winning (1st runner up) solution code and presentation file of Analytics Olympiad 2021 | [Winning Solution](https://github.com/YashK07/Analytics-Olympiad-2021-My-Winning-Solution) 🏅 
+6. NLP basic algorithm implemenation | [NLP](https://github.com/YashK07/Natural-Language-Processing)  💬 
 
 
 ### Also check my blogs ⭐🎯 - 

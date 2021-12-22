@@ -10,7 +10,8 @@
 3. My winning (1st runner up) solution code and presentation file of Analytics Olympiad 2021 | [Winning Solution](https://github.com/YashK07/Analytics-Olympiad-2021-My-Winning-Solution) 🥈 
 4. Implementation of Ensemble stacking in Machine Learning & Deep Learning | [Stacking](https://github.com/YashK07/Stacking-Ensembling) 🧱
 5. Various Machine Learning & Deep Learning implementation on real world datasets | [ML - DL](https://github.com/YashK07/ML-DL) ⚡
-6. NLP basic algorithm implemenation | [NLP](https://github.com/YashK07/Natural-Language-Processing)  💬  
+6. All important DSA problems (from Geeks for Geeks) and their solution code | [DSA](https://github.com/YashK07/DSA-GFG) 🧠
+7. NLP basic algorithm implemenation | [NLP](https://github.com/YashK07/Natural-Language-Processing)  💬  
 
 ### Also check my blogs ⭐🎯 - 
 1. Machine Learning, Deep Learning and Data Analytics blogs | [Blog Archive](https://docs.google.com/document/d/16mT9iHdc06CR-9CAMGvCngmOv07hC9CM9Sl5oYfwcKs/edit?usp=sharing) 📈 

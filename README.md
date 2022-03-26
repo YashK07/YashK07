@@ -17,7 +17,7 @@
 1. Machine Learning, Deep Learning and Data Analytics blogs | [Blog Archive](https://docs.google.com/document/d/16mT9iHdc06CR-9CAMGvCngmOv07hC9CM9Sl5oYfwcKs/edit?usp=sharing) 📈 
 
 ### My Research Works 📜 💡 - 
-1. ARCN: A Real-time Attention-based Network for Crowd Counting from Drone Images | [IEEE India Council International Conference (INDICON)](https://www.researchgate.net/publication/355426539_ARCN_A_Real-time_Attention-based_Network_for_Crowd_Counting_from_Drone_Images) 🌎
+1. ARCN: A Real-time Attention-based Network for Crowd Counting from Drone Images | [IEEE India Council International Conference (INDICON)](https://ieeexplore.ieee.org/document/9691659) 🌎
 
 
 <h2> About Me </h2>

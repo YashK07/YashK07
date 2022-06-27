@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GIF](https://owaissiddiqi.co.uk/img/AIbrain.png)
+![GIF](https://github.com/YashK07/YashK07/blob/main/cover%20linkedin.png)
 
 
 

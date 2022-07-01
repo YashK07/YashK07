@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GIF](https://github.com/YashK07/YashK07/blob/main/cover%20linkedin.png)
+![GIF](https://github.com/YashK07/YashK07/blob/main/Learn%20Data%20Science%20(LinkedIn%20Banner)%20(LinkedIn%20Banner).png)
 
 
 

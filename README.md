@@ -6,7 +6,7 @@
 
 ### My Github contributions include ✨ - 
 1. End to End Machine Learning project, Deployment on Heroku | [Burnout Rate Prediction Webapp](https://github.com/YashK07/Burnout-Rate-Prediction-Heroku) 🔥
-2. End to End Deep Learning image recognition project | [Natural Scence Recognition Webapp](https://github.com/YashK07/Natural-Scene-Recognition-WebApp-SDS-Project) 🌟
+2. A Data Science based solution to find various factors influencing US residential house prices for next 10 years | [US-HPI Analytics](https://github.com/YashK07/US-HousePriceIndex-Analytics) 🏡 📊
 3. My winning (1st runner up) solution code and presentation file of Analytics Olympiad 2021 | [Winning Solution](https://github.com/YashK07/Analytics-Olympiad-2021-My-Winning-Solution) 🥈 
 4. Implementation of Ensemble stacking in Machine Learning & Deep Learning | [Stacking](https://github.com/YashK07/Stacking-Ensembling) 🧱
 5. Various Machine Learning & Deep Learning implementation on real world datasets | [ML - DL](https://github.com/YashK07/ML-DL) ⚡

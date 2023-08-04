@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-![GIF](https://github.com/YashK07/YashK07/blob/main/Learn%20Data%20Science%20(LinkedIn%20Banner)%20(LinkedIn%20Banner).png)
-
-
-
 ### My Github contributions include ✨ - 
 1. End to End Machine Learning project, Deployment on Heroku | [Burnout Rate Prediction Webapp](https://github.com/YashK07/Burnout-Rate-Prediction-Heroku) 🔥
 2. A Data Science based solution to find various factors influencing US residential house prices for next 10 years | [US-HPI Analytics](https://github.com/YashK07/US-HousePriceIndex-Analytics) 🏡 📊

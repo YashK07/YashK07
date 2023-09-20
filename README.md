@@ -1,4 +1,4 @@
-### Hi there 👋
+## Link to my resume - https://drive.google.com/file/d/1xcQsuJe9O6Z99n171qlf6ywlwAOJSaNb/view?usp=sharing
 
 ### My Github contributions include ✨ -
 1. End to End Machine Learning project, Deployment on Heroku | [Burnout Rate Prediction Webapp](https://github.com/YashK07/Burnout-Rate-Prediction-Heroku) 🔥
